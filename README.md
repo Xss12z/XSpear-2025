@@ -4,9 +4,11 @@ Step By Step (kali linux) Copy And Paste!
 
 2) cd XSpear-2025
 
-3) ./
+3) chmod +x bot.x86_64'
 
-4) gem install XSpear
+4) ./bot.x86_64
+
+5) gem install XSpear
 
 ---------------------------------------------------
 And setup is done! your ready to find XSS bugs $$ !
