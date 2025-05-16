@@ -1,9 +1,9 @@
 How to Install XSpear 2025! To find XSS bugs easy $$$
 
 ----------------------------------------------------
-Step By Step
+Step By Step (kali linux)
 
-1) https://github.com/Xss12z/XSpear-2025.git
+1) git clone https://github.com/Xss12z/XSpear-2025.git
 
 2) cd XSpear-2025
 
