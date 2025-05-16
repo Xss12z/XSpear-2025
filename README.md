@@ -4,7 +4,7 @@ Step By Step (kali linux) Copy And Paste!
 
 2) cd XSpear-2025
 
-3) chmod +x bot.x86_64'
+3) chmod +x bot.x86_64
 
 4) ./bot.x86_64
 
